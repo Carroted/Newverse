@@ -1,0 +1,5 @@
+All sounds starting with numbers in this folder (excluding any in the Gun & Explosion Sounds folder) are from https://freesound.org/. I highly recommend this site.
+The sounds from freesound.org are all licensed under Creative Commons 0, and the freesound.org usernames of the creators can be found in the filenames of their audio files.
+Newverse utilizes Gun & Explosion Sounds from the Unity Asset Store, which can be found here: https://assetstore.unity.com/packages/audio/sound-fx/weapons/gun-explosion-sounds-176739
+In order to render Newverse with the sounds, they need to be purchased. Due to this, they are not included here. If you create renders of Newverse and don't wish to purchase these, it is recommended to find replacements at freesound.org
+More information can be found in Files.txt, located in the Gun & Explosion Sounds folder.
